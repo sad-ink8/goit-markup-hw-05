@@ -869,11 +869,12 @@ textarea:focus + svg {
 .checkbox-terms:checked + .checkbox-label span {
   border: none;
   background-color: #404bbf;
-}
-
-.checkbox-terms:checked + .checkbox-label svg {
   fill: #f4f4fd;
 }
+
+/* .checkbox-terms:checked + .checkbox-label svg {
+  fill: #f4f4fd;
+} */
 
 .checkbox-a {
   color: #4d5ae5;
