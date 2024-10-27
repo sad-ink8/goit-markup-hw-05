@@ -866,12 +866,12 @@ textarea:focus + svg {
   color: #8e8f99;
 }
 
-.checkbox-terms:checked.checkbox-span {
+input:checked + .checkbox-span {
   border: none;
   background-color: #404bbf;
 }
 
-.checkbox-terms:checked.check-icon {
+input:checked + .check-icon {
   fill: #f4f4fd;
 }
 
